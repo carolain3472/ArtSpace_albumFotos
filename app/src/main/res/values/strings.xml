@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="foto1">Babe</string>
+    <string name="foto1_year">07-2003</string>
+    <string name="foto1_des"> Los primeros pasos en una vida de altibajos.</string>
+
+    <string name="foto2">Sempiterno</string>
+    <string name="foto2_year">09-2023</string>
+    <string name="foto2_des">Te amo porque eres tú</string>
+
+    <string name="foto3">Perenne</string>
+    <string name="foto3_year">07-2023</string>
+    <string name="foto3_des">Te amo como para no soltarte jamas</string>
+
+    <string name="foto4">Luminiscencia</string>
+    <string name="foto4_year">01-2022</string>
+    <string name="foto4_des">No sabes cuanto te extraño</string>
+
+    <string name="foto5">Inmarcesible</string>
+    <string name="foto5_year">04-2023</string>
+    <string name="foto5_des">Llegaste tú</string>
+
+    <string name="foto6">Euforia</string>
+    <string name="foto6_year">06-2023</string>
+    <string name="foto6_des">Amo compartir momentos</string>
+
+    <string name="foto7">Acendrado</string>
+    <string name="foto7_year">04-2021</string>
+    <string name="foto7_des">Puro. Sin mancha ni defecto</string>
+
+    <string name="foto8">Limerencia</string>
+    <string name="foto8_year">05-2023</string>
+    <string name="foto8_des">Juntos somos perfectos</string>
+
+    <string name="foto9">Melifluo</string>
+    <string name="foto9_year">07-2023</string>
+    <string name="foto9_des">Tenemos la conexión que mucha gente busca toda la vida</string>
+
+    <string name="foto10">Bonhomía</string>
+    <string name="foto10_year">09-2020</string>
+    <string name="foto10_des">Siempre estaras conmigo, a mi lado</string>
+
+    <string name="name">Natalia López Osorio</string>
+    <string name="code">2025618</string>
+    <string name="name_boton_previous">Back</string>
+    <string name="name_boton_next">Next</string>
+    <string name="vacio">" "</string>
+
+</resources>
