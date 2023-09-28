@@ -1,45 +1,45 @@
 <resources>
     <string name="app_name">Art Space</string>
 
-    <string name="foto1">Love?</string>
-    <string name="foto1_año">2003</string>
-    <string name="foto1_des"> ¿Qué es el amor?</string>
+    <string name="foto0">Love?</string>
+    <string name="foto0_año">2003</string>
+    <string name="foto0_des"> ¿Qué es el amor?</string>
 
-    <string name="foto2">Mom</string>
-    <string name="foto2_año">2022</string>
-    <string name="foto2_des">Amor es sentir el abrazo de mamá cada que llego a casa.</string>
+    <string name="foto1">Mom</string>
+    <string name="foto1_año">2022</string>
+    <string name="foto1_des">Amor es sentir el abrazo de mamá cada que llego a casa.</string>
 
-    <string name="foto3">Abuelos</string>
-    <string name="foto3_año">2021</string>
-    <string name="foto3_des">Amor son mis abuelos amandome sin importar qué.</string>
+    <string name="foto2">Abuelos</string>
+    <string name="foto2_año">2021</string>
+    <string name="foto2_des">Amor son mis abuelos amandome sin importar qué.</string>
 
-    <string name="foto4">Pasión</string>
-    <string name="foto4_año">2020</string>
-    <string name="foto4_des">Amor es cuando realizo todo lo que me apasiona.</string>
+    <string name="foto3">Pasión</string>
+    <string name="foto3_año">2020</string>
+    <string name="foto3_des">Amor es cuando realizo todo lo que me apasiona.</string>
 
-    <string name="foto5">Comida</string>
+    <string name="foto4">Comida</string>
+    <string name="foto4_año">2021</string>
+    <string name="foto4_des">Amor es comer tu comida favorita con quienes amas.</string>
+
+    <string name="foto5">Cariño</string>
     <string name="foto5_año">2021</string>
-    <string name="foto5_des">Amor es comer tu comida favorita con quienes amas.</string>
+    <string name="foto5_des">Amor es que tu pareja te ame incondicionalmente. </string>
 
-    <string name="foto6">Cariño</string>
-    <string name="foto6_año">2021</string>
-    <string name="foto6_des">Amor es que tu pareja te ame incondicionalmente. </string>
+    <string name="foto6">Familia</string>
+    <string name="foto6_año">2018</string>
+    <string name="foto6_des">Amor es la familia que te sostiene en cada paso.</string>
 
-    <string name="foto7">Familia</string>
-    <string name="foto7_año">2018</string>
-    <string name="foto7_des">Amor es la familia que te sostiene en cada paso.</string>
+    <string name="foto7">Muñeca</string>
+    <string name="foto7_año">2022</string>
+    <string name="foto7_des">Amor es muñeca cuando estaba en mi vida.</string>
 
-    <string name="foto8">Muñeca</string>
-    <string name="foto8_año">2022</string>
-    <string name="foto8_des">Amor es muñeca cuando estaba en mi vida.</string>
+    <string name="foto8">Max</string>
+    <string name="foto8_año">2023</string>
+    <string name="foto8_des">Amor es Max cuando llegó a alegrar cada día de mi vida.</string>
 
-    <string name="foto9">Max</string>
+    <string name="foto9">Amigos</string>
     <string name="foto9_año">2023</string>
-    <string name="foto9_des">Amor es Max cuando llegó a alegrar cada día de mi vida.</string>
-
-    <string name="foto10">Amigos</string>
-    <string name="foto10_año">2023</string>
-    <string name="foto10_des">Amor son mis amigos cuando están para mi. </string>
+    <string name="foto9_des">Amor son mis amigos cuando están para mi. </string>
 
     <string name="nombre">Carolain Jimenez Bedoya</string>
     <string name="code">2071368</string>
