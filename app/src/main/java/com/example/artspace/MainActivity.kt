@@ -104,7 +104,8 @@ fun ArtSpaceGallery() {
         ArtworkNavigation(
             currentArtwork = currentArtwork,
             onPreviousClick = { currentArtwork = getPreviousArtwork(currentArtwork) },
-            onNextClick = { currentArtwork = getNextArtwork(currentArtwork) }
+            onNextClick = { currentArtwork = getNextArtwork(currentArtwork) },
+            onRestartClick = { currentArtwork = 1 }
         )
     }
 }
@@ -173,7 +174,8 @@ fun ArtworkDetails(
 fun ArtworkNavigation(
     currentArtwork: Int,
     onPreviousClick: () -> Unit,
-    onNextClick: () -> Unit
+    onNextClick: () -> Unit,
+    onRestartClick: () -> Unit
 ) {
     Row(
         modifier = Modifier
@@ -201,7 +203,7 @@ fun ArtworkNavigation(
             )
         }
         Button(
-            onClick = { /* Rotar imagen */ },
+            onClick = onRestartClick,
             colors = ButtonDefaults.buttonColors(
                 contentColor = colorResource(id = R.color.rose),
                 containerColor = colorResource(id = R.color.rose)
@@ -242,8 +244,7 @@ fun ArtworkNavigation(
 
 @DrawableRes
 private fun getImageResource(index: Int): Int {
-    // Implementa tu lógica para obtener el recurso de imagen en función del índice
-    // Por ejemplo:
+
     return when (index) {
         1 -> R.drawable.photo_0
         2 -> R.drawable.photo_1
@@ -261,8 +262,7 @@ private fun getImageResource(index: Int): Int {
 
 @StringRes
 private fun getTitleResource(index: Int): Int {
-    // Implementa tu lógica para obtener el recurso de título en función del índice
-    // Por ejemplo:
+
     return when (index) {
         1 -> R.string.foto0
         2 -> R.string.foto1
@@ -280,8 +280,7 @@ private fun getTitleResource(index: Int): Int {
 
 @StringRes
 private fun getYearResource(index: Int): Int {
-    // Implementa tu lógica para obtener el recurso de año en función del índice
-    // Por ejemplo:
+
     return when (index) {
         1 -> R.string.foto0_año
         2 -> R.string.foto1_año
@@ -299,8 +298,7 @@ private fun getYearResource(index: Int): Int {
 
 @StringRes
 private fun getDescriptionResource(index: Int): Int {
-    // Implementa tu lógica para obtener el recurso de descripción en función del índice
-    // Por ejemplo:
+
     return when (index) {
         1 -> R.string.foto0_des
         2 -> R.string.foto1_des
